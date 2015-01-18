@@ -1,2 +1,2 @@
 # luther
-Puppet manifests creation and deployment dashboard for mid-sized and large environments.
+Intuitive Puppet manifests creation dashboard for mid-sized and large environments.
